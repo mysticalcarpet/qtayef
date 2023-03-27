@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://qtayef.onrender.com/sitemap.xml
